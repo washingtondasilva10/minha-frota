@@ -1,0 +1,6 @@
+.fleet-actions { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; }
+
+@media (max-width: 580px) {
+  .fleet-actions { width: 100%; }
+  .fleet-actions .button { flex: 1; }
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Minha Frota">
+  <rect width="256" height="256" rx="58" fill="#d5dade"/>
+  <path d="M43 84h104v72H43z" fill="#25292d"/>
+  <path d="M147 108h35l28 28v20h-63z" fill="#25292d"/>
+  <path d="M159 119h18l17 17h-35z" fill="#d5dade"/>
+  <path d="M43 145h169v19H43z" fill="#25292d"/>
+  <circle cx="80" cy="171" r="20" fill="#25292d"/><circle cx="80" cy="171" r="8" fill="#d5dade"/>
+  <circle cx="176" cy="171" r="20" fill="#25292d"/><circle cx="176" cy="171" r="8" fill="#d5dade"/>
+  <path d="M55 67h96" stroke="#25292d" stroke-width="12" stroke-linecap="round"/>
+</svg>
